@@ -13,20 +13,12 @@
 <img src="images/Dengue Cases vs Deaths Analysis.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ---
 
 ### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [FIFA 19 Player Dataset](https://github.com/jericdata-analyst/My-Notebook/blob/main/fifa-19-eda.ipynb)
+- [Best Selling Mobile Phones](https://github.com/jericdata-analyst/My-Notebook/blob/main/best-selling-mobile-phones-eda.ipynb)
 - [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
