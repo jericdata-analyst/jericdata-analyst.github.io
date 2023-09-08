@@ -15,7 +15,7 @@
 ---
 ---
 
-### Category Name 2
+### Projects
 - [FIFA 19 Player Dataset](https://github.com/jericdata-analyst/My-Notebook/blob/main/fifa-19-eda.ipynb)
 - [Best Selling Mobile Phones](https://github.com/jericdata-analyst/My-Notebook/blob/main/best-selling-mobile-phones-eda.ipynb)
 - [Project 3 Title](http://example.com/)
