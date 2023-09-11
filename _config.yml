@@ -3,8 +3,7 @@ logo: "/images/Jeric photo-modified.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  <br>
   I analyze data using tools like SQL, Python, and Excel to identify patterns and trends that inform business decision. I provide accurate insights through report 
-  <br>
-  
+  <br><br>
   <a href="https://www.linkedin.com/in/jeric-the-analyst/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
