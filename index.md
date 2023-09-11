@@ -4,15 +4,14 @@
 
 ### Microsoft Power BI Dashboard
 
-[Super-Retail Grocery Sales Dashboard ] <br> (/sample_page)
+[Super-Retail Grocery Sales Dashboard ](/sample_page)
 <img src="images/retail-dashboard.png?raw=true"/>
 
 ---
 
-[ Philippine Dengue Cases Analysis in 2016-2020 Dashboard]  <br>(/pdf/sample_presentation.pdf)
+[Philippine Dengue Cases Analysis in 2016-2020 Dashboard](/pdf/sample_presentation.pdf)
 <img src="images/Dengue Cases vs Deaths Analysis.png?raw=true"/>
 
----
 ---
 
 ### Projects
