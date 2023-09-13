@@ -15,9 +15,9 @@
 ---
 
 ### Projects
-- [FIFA 19 Player Dataset](https://github.com/jericdata-analyst/My-Notebook/blob/main/fifa-19-eda.ipynb)
+- [FIFA 2019 Player Dataset](https://github.com/jericdata-analyst/My-Notebook/blob/main/fifa-19-eda.ipynb)
 - [Best Selling Mobile Phones](https://github.com/jericdata-analyst/My-Notebook/blob/main/best-selling-mobile-phones-eda.ipynb)
-- [Project 3 Title](http://example.com/)
+- [Most Stream Spotify Artist](https://github.com/jericdata-analyst/My-Notebook/blob/main/most-streamed-spotify-songs-2023-eda(1).ipynb)
 
 ---
 
