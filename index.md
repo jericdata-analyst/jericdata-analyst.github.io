@@ -4,11 +4,12 @@
 
 ### Microsoft Power BI Dashboard
 
+[Human Resource Dashboard ](/sample_page)
+<img src="images/dashboard.png?raw=true"/>
+---
 [Super-Retail Grocery Sales Dashboard ](/sample_page)
 <img src="images/retail-dashboard.png?raw=true"/>
-
 ---
-
 [Philippine Dengue Cases Analysis in 2016-2020 Dashboard](/pdf/sample_presentation.pdf)
 <img src="images/Dengue Cases vs Deaths Analysis.png?raw=true"/>
 
