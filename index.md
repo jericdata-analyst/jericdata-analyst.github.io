@@ -5,7 +5,7 @@
 ### Microsoft Power BI Dashboard
 
 [Human Resource Dashboard ](/sample_page)
-<img src="images/dashboard.png?raw=true"/>
+<img src="images/Dashboard.png?raw=true"/>
 ---
 [Super-Retail Grocery Sales Dashboard ](/sample_page)
 <img src="images/retail-dashboard.png?raw=true"/>
