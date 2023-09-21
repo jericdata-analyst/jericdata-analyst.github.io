@@ -3,17 +3,17 @@
 ---
 
 ### Microsoft Power BI Dashboard
-
+[Adventure Works Sales Dashboard](/sample_page) 
+<img src="images/Adventure Works Sales Dashboard.png??raw=true" />
+---
 [Human Resource Dashboard](/sample_page) 
 <img src="images/Dashboard.png?raw=true" />
-
-[Super-Retail Grocery Sales Dashboard ](/sample_page) 
-<img src="images/retail-dashboard.png?raw=true"/>
-
 ---
-[Philippine Dengue Cases Analysis in 2016-2020 Dashboard](/pdf/sample_presentation.pdf) 
+[Super-Retail Grocery Sales Dashboard](/sample_page) 
+<img src="images/retail-dashboard.png?raw=true"/>
+---
+[Philippine Dengue Cases Analysis in 2016-2020 Dashboard ](/pdf/sample_presentation.pdf) 
 <img src="images/Dengue Cases vs Deaths Analysis.png?raw=true"/>
-
 ---
 
 ### Projects
